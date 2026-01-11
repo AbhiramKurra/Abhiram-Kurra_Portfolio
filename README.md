@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio! This project showcases my s
 
 ## About Me
 
-I'm **Naveen Abhiram Kurra**, a Certified Ethical Hacker (CEH) from EC-Council. Currently, I'm pursuing a Bachelor's Degree in Computer Science and Engineering with a specialization in Cybersecurity at Vellore Institute of Technology. My journey in the digital landscape is guided by ethical principles, ensuring systems are secure and resilient against threats.
+I'm **Naveen Abhiram Kurra**, a Certified Ethical Hacker (CEH) from EC-Council. Pursued my Bachelor's Degree in Computer Science and Engineering with a specialization in Cybersecurity at Vellore Institute of Technology. My journey in the digital landscape is guided by ethical principles, ensuring systems are secure and resilient against threats.
 
 In addition to my technical expertise, I bring a unique artistic perspective to cybersecurity through my skills in UI/UX design. This blend of creativity and security enables me to not only fortify digital environments but also enhance user experiences intuitively and effectively.
 
